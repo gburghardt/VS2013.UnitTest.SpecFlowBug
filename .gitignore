@@ -1,0 +1,11 @@
+*.suo
+TestResult.xml
+TestResults/*
+bin/*
+*/bin/*
+obj/*
+*/obj/*
+*.user
+~$*
+packages/*
+.nuget/*
